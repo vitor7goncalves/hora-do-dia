@@ -1,0 +1,24 @@
+body{
+background-color: rgb(70, 142, 236);
+font: normal 15pt Arial;
+}
+header{
+    text-align: center;  
+}
+section{
+   background-color: silver;
+   border-radius: 1rem;
+   width: 40rem;
+   padding: 3rem;
+   margin: auto;
+   box-shadow: .5rem .5rem 1rem rgba(0, 0, 0, .4);
+}
+div{
+    text-align: center;
+    font-size: 1.5rem;
+    padding-top: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    text-align: center;
+}

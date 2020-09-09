@@ -1,0 +1,1 @@
+No exercicio do curso de JavaScript criei um site que mostra a hora e uma foto referente ao periodo do dia: manha, tarde e noite. Além disso o fundo do site muda a cor de acordo.
